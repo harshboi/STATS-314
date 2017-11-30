@@ -1,0 +1,268 @@
+course,miles.to.school,major,school.work.hours,credit.hours,school.materials.dollars,jobs,salary,activity,height,emails,text,os,gaming,gaming.hours,social,social.time,states,us.home,gender,subject,ereader,books,biography
+campus,3.1,Computer Science,46,12,300,8,90000,60,70,1,3,Android,computer,3,TRUE,1,40,TRUE,Male,Writing,TRUE,5,Neil deGrasse Tyson
+campus,1,Computer Science,25,15,500,2,85000,45,69,16,9,Android,computer,10,TRUE,40,37,TRUE,Male,Writing,TRUE,6,Elon Musk
+campus,1,Civil or CEM,25,14,400,1,62000,60,75,2,3,Android,computer,4,TRUE,60,35,TRUE,Male,Writing,TRUE,5,Elon Musk
+online,0.3,Computer Science,4,12,0,2,40000,15,72,3,42,iOS,computer,12,TRUE,20,34,TRUE,Male,Writing,TRUE,0,Elon Musk
+online,3.2,Mechanical Engineering,10,16,100,5,70000,30,72,15,0,Android,computer,3,TRUE,20,20,TRUE,Male,Writing,TRUE,1,Elon Musk
+campus,1,Computer Science,30,16,200,1,65000,60,68,23,300,iOS,computer,5,TRUE,30,18,TRUE,Male,Writing,TRUE,2,Neil deGrasse Tyson
+campus,0.5,Civil or CEM,15,12,60,3,65000,60,74,4,25,Android,gaming console,15,TRUE,60,15,TRUE,Male,Writing,TRUE,0,Lebron James
+campus,0.1,Civil or CEM,15,9,100,5,120000,60,75,7,10,iOS,nothing. I don't play video games.,0,TRUE,60,15,TRUE,Male,Writing,TRUE,1,Dalai Lama
+online,3.2,Computer Science,4,12,70,7,45000,30,65,6,9,Android,computer,6,TRUE,20,15,TRUE,Male,Writing,TRUE,6,Elon Musk
+campus,0.5,Mechanical Engineering,24,17,190,3,60000,30,73,10,20,iOS,gaming console,0,TRUE,10,15,TRUE,Male,Writing,TRUE,20,Elon Musk
+campus,2,Civil or CEM,20,18,230,4,60000,60,66,16,200,Android,gaming console,2,TRUE,60,12,TRUE,Male,Writing,TRUE,2,Elon Musk
+campus,0.1343,Computer Science,12,13,500,1,75000,45,73.5,2,8,iOS,computer,20,TRUE,15,11,TRUE,Male,Writing,TRUE,4,Elon Musk
+online,20,Mechanical Engineering,10,12,300,6,70000,15,72,5,10,Android,computer,0,TRUE,60,10,TRUE,Male,Writing,TRUE,2,Elon Musk
+campus,12.1,Computer Science,10,12,100,1,30000,60,68,4,20,Android,gaming console,20,TRUE,30,10,TRUE,Male,Writing,TRUE,3,Elon Musk
+campus,0.6,Civil or CEM,3,6,20,3,55000,20,66,6,50,iOS,computer,0,TRUE,80,7,TRUE,Male,Writing,TRUE,1,Ruth Bader Ginsburg
+campus,1.6,Computer Science,30,15,500,2,100690,30,73,4,26,iOS,computer,8,TRUE,1,7,TRUE,Male,Writing,TRUE,1,Dalai Lama
+campus,1.6,Computer Science,10,13,500,4,60000,10,70,11,75,iOS,computer,15,TRUE,20,6,TRUE,Male,Writing,TRUE,7,Elon Musk
+campus,0.1,Civil or CEM,15,15,150,2,65000,30,71,7,15,iOS,gaming console,3,TRUE,60,5,TRUE,Male,Writing,TRUE,0,Elon Musk
+online,25,Civil or CEM,1.5,15,450,5,75000,30,70,11,100,iOS,nothing. I don't play video games.,0,TRUE,20,5,TRUE,Male,Writing,TRUE,7,Elon Musk
+campus,37,Computer Science,8,16,50,6,70000,45,72,21,40,iOS,computer,0,TRUE,0,5,TRUE,Male,Writing,TRUE,0,Elon Musk
+campus,0.6,Computer Science,20,14,0,0,50000,40,65,8,6,iOS,computer,40,TRUE,60,3,TRUE,Male,Writing,TRUE,3,Elon Musk
+campus,29.3,Civil or CEM,18,15,400,4,85000,120,70,6,4,iOS,gaming console,4,TRUE,30,3,TRUE,Male,Writing,TRUE,2,Neil deGrasse Tyson
+online,0,Computer Science,0,15,120,3,80000,45,62,27,200,iOS,computer,0,TRUE,90,11,FALSE,Male,Writing,TRUE,5,Neil deGrasse Tyson
+campus,1.2,Computer Science,9,19,200,2,57000,30,66,6,100,iOS,gaming console,0,TRUE,15,10,FALSE,Male,Writing,TRUE,30,Dalai Lama
+campus,5,Mechanical Engineering,20,14,400,10,70000,60,76,10,10,iOS,nothing. I don't play video games.,0,TRUE,1,10,FALSE,Male,Writing,TRUE,1,Elon Musk
+campus,1,Civil or CEM,14,12,150,0,20000,400,66,10,3,iOS,phone,1,TRUE,240,9,FALSE,Male,Writing,TRUE,2,Lebron James
+campus,1,Civil or CEM,21,14,300,0,45000,60,68,5,0,iOS,nothing. I don't play video games.,0,TRUE,60,7,FALSE,Male,Writing,TRUE,5,Lebron James
+online,0.6,Computer Science,10,14,500,1,80000,30,70.86,9,0,iOS,computer,15,TRUE,120,3,FALSE,Male,Writing,TRUE,3,Elon Musk
+campus,0.4,Industrial Engineering,40,16,300,0,50000,40,68,9,0,Android,phone,5,TRUE,30,1,FALSE,Male,Writing,TRUE,6,Elon Musk
+campus,0.8,Computer Science,2,6,150,4,70000,20,69,5,200,iOS,computer,6,TRUE,240,11,TRUE,Female,Writing,TRUE,15,Ruth Bader Ginsburg
+online,40.7,Computer Science,20,12,180,6,70000,30,65,10,0,Android,computer,0,TRUE,30,8,TRUE,Female,Writing,TRUE,1,Neil deGrasse Tyson
+campus,0.5,Mechanical Engineering,20,16,300,3,50000,30,72,8,6,Android,computer,5,TRUE,120,50,TRUE,Male,Math,TRUE,3,Dalai Lama
+campus,0.4,Computer Science,20,13,150,3,40000,60,72,6,6,Android,computer,2,TRUE,60,50,TRUE,Male,Math,TRUE,2,Dalai Lama
+campus,0.7,Mechanical Engineering,25,16,500,2,50000,10,71,3,15,iOS,computer,30,TRUE,20,45,TRUE,Male,Math,TRUE,5,Neil deGrasse Tyson
+online,40,Civil or CEM,30,15,400,10,60000,40,73,5,1,iOS,nothing. I don't play video games.,0,TRUE,0,45,TRUE,Male,Math,TRUE,2,Neil deGrasse Tyson
+campus,0.2,Civil or CEM,15,15,300,3,60000,130,69,4,2,Android,computer,3,TRUE,50,43,TRUE,Male,Math,TRUE,5,Elon Musk
+campus,0.9,Mechanical Engineering,10,12,1000,6,70000,30,72,12,10,iOS,nothing. I don't play video games.,0,TRUE,30,40,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,23.1,Industrial Engineering,6,14,400,6,50000,30,70,5,3,Android,nothing. I don't play video games.,0,TRUE,20,40,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,1.3,Civil or CEM,8,14,170,2,75000,60,74,22,45,iOS,gaming console,10,FALSE,0,36,TRUE,Male,Math,TRUE,0,Lebron James
+campus,34,Civil or CEM,20,12,250,5,70000,60,69,12,35,iOS,computer,3,TRUE,15,35,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,1.5,Mechanical Engineering,18,12,300,2,60000,20,69,6,14,Android,computer,2,TRUE,2,33,TRUE,Male,Math,TRUE,1,Elon Musk
+online,0.5,Computer Science,15,14,200,2,50000,30,70,13,20,iOS,computer,18,TRUE,90,32,TRUE,Male,Math,TRUE,10,Elon Musk
+online,212,Computer Science,32,16,300,3,68000,35,75,9,45,iOS,computer,8,TRUE,5,32,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,0.8,Mechanical Engineering,20,15,450,5,85000,120,68,19,80,iOS,gaming console,1,TRUE,60,31,TRUE,Male,Math,TRUE,5,Neil deGrasse Tyson
+campus,1,Mechanical Engineering,30,15,200,4,65000,60,72,16,200,iOS,gaming console,1,TRUE,100,30,TRUE,Male,Math,TRUE,3,Elon Musk
+campus,1,Computer Science,30,15,79,5,75000,60,75,4,10,Android,computer,10,TRUE,10,30,TRUE,Male,Math,TRUE,5,Elon Musk
+online,60,Civil or CEM,25,14,150,3,60000,120,71,7,22,iOS,gaming console,1,TRUE,1,30,TRUE,Male,Math,TRUE,5,Elon Musk
+campus,0.5,Computer Science,43.3,15,220,4,70000,45,71.5,15,500,Android,computer,1,TRUE,45,27,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,3,Civil or CEM,14,13,550,20,65000,20,72,4,4,Android,nothing. I don't play video games.,0,TRUE,0,27,TRUE,Male,Math,TRUE,5,Elon Musk
+campus,2.1,Mechanical Engineering,46,15,200,7,65000,30,75,7,63,iOS,gaming console,0,TRUE,20,26,TRUE,Male,Math,TRUE,2,Elon Musk
+online,2,Civil or CEM,25,14,200,5,65000,60,68,16,30,Android,nothing. I don't play video games.,0,TRUE,25,25,TRUE,Male,Math,TRUE,1,Lebron James
+campus,0.1,Mechanical Engineering,8,15,130,5,42000,90,73,13,12,iOS,gaming console,0,TRUE,180,24,TRUE,Male,Math,TRUE,0,Neil deGrasse Tyson
+online,1.6,Computer Science,10,14,200,1,60000,30,68,12,50,iOS,computer,4,TRUE,45,23,TRUE,Male,Math,TRUE,1,Neil deGrasse Tyson
+campus,0.7,Mechanical Engineering,30,16,800,5,65000,90,70,7,73,iOS,nothing. I don't play video games.,0,TRUE,60,22,TRUE,Male,Math,TRUE,0,Neil deGrasse Tyson
+campus,0.8,Civil or CEM,10,15,300,3,50000,90,68,14,50,iOS,gaming console,2,TRUE,60,20,TRUE,Male,Math,TRUE,6,Lebron James
+campus,2,Civil or CEM,10,12,50,2,50000,60,70,6,10,iOS,computer,14,TRUE,30,20,TRUE,Male,Math,TRUE,3,Elon Musk
+campus,4,Mechanical Engineering,30,15,50,5,70000,30,71,22,15,iOS,gaming console,0,TRUE,15,20,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,87.8,Computer Science,25,13,500,2,60000,30,75,55,35,iOS,gaming console,0,TRUE,250,18,TRUE,Male,Math,TRUE,1,Lebron James
+campus,1.6,Computer Science,62,17,87,3,55000,180,72,19,10,Android,computer,1,TRUE,60,17,TRUE,Male,Math,TRUE,2,Ruth Bader Ginsburg
+campus,0.25,Mechanical Engineering,20,14,100,4,66000,40,70,10,12,Android,computer,4,TRUE,10,17,TRUE,Male,Math,TRUE,1,Dalai Lama
+campus,0.8,Computer Science,15,12,300,2,65000,60,68,7,20,iOS,computer,5,TRUE,120,16,TRUE,Male,Math,TRUE,4,Elon Musk
+online,0.8,Computer Science,15,12,300,2,65000,60,68,7,15,iOS,computer,5,TRUE,120,16,TRUE,Male,Math,TRUE,4,Elon Musk
+online,1,Civil or CEM,25,18,100,6,50000,120,69,20,100,iOS,gaming console,5,TRUE,60,16,TRUE,Male,Math,TRUE,6,Lebron James
+campus,81.8,Mechanical Engineering,16,16,1000,3,100000,60,73,12,16,iOS,computer,10,TRUE,5,16,TRUE,Male,Math,TRUE,2,Neil deGrasse Tyson
+campus,0,Computer Science,30,14,80,1,80000,30,72,8,25,iOS,computer,50,FALSE,0,16,TRUE,Male,Math,TRUE,3,Neil deGrasse Tyson
+online,0.5,Mechanical Engineering,43,16,300,4,100000,60,72,24,437,iOS,gaming console,0,TRUE,539,15,TRUE,Male,Math,TRUE,5,Neil deGrasse Tyson
+online,1,Computer Science,5,15,200,3,70000,120,71,19,124,iOS,nothing. I don't play video games.,0,TRUE,90,15,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,0.5,Mechanical Engineering,25,15,325,1,70000,20,76,7,18,Android,computer,30,TRUE,60,15,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,2,Civil or CEM,8,9,300,1,65000,30,72,3,30,iOS,gaming console,20,TRUE,60,15,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,0.1,Computer Science,32,13,120,4,69000,60,71,6,0,Android,computer,8,TRUE,30,15,TRUE,Male,Math,TRUE,2,Elon Musk
+online,50,Mechanical Engineering,8,12,700,4,60000,30,68,8,30,Android,computer,2,TRUE,30,15,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,1.1,Computer Science,5,17,150,1,80000,60,66,12,15,Android,computer,20,TRUE,10,15,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,2,Computer Science,5,16,0,2,75000,30,72,7,13,Android,gaming console,25,TRUE,0,15,TRUE,Male,Math,TRUE,0,Neil deGrasse Tyson
+online,0.8,Mechanical Engineering,14,19,200,4,80000,25,74,6,25,Android,gaming console,4,TRUE,20,14,TRUE,Male,Math,TRUE,2,Dalai Lama
+campus,0,Computer Science,45,13,25,5,110000,45,70,15,70,iOS,computer,0,TRUE,1,14,TRUE,Male,Math,TRUE,1,Elon Musk
+campus,1,Computer Science,10,14,5,0,50000,60,75,7,50,Android,computer,20,TRUE,60,13,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,1,Mechanical Engineering,32,16,800,2,65000,30,69,11,8,iOS,gaming console,20,TRUE,60,13,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,2.3,Civil or CEM,13,12,300,10,70000,120,74,5,6,Android,computer,20,FALSE,0,13,TRUE,Male,Math,TRUE,3,Elon Musk
+campus,0.5,Civil or CEM,24,16,250,2,55000,60,68,15,20,iOS,gaming console,7,TRUE,80,12,TRUE,Male,Math,TRUE,1,Ruth Bader Ginsburg
+campus,0.9,Mechanical Engineering,24,15,10,4,60000,90,71,19,7,iOS,computer,15,TRUE,60,12,TRUE,Male,Math,TRUE,3,Elon Musk
+campus,0.1,Mechanical Engineering,20,14,500,2,30000,30,73,16,353,iOS,computer,1,TRUE,60,12,TRUE,Male,Math,TRUE,1,Elon Musk
+online,2,Mechanical Engineering,30,11,840,2,50000,60,68,12,15,Android,computer,0,TRUE,60,12,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,2,Computer Science,17,13,300,3,70000,65,67,12,80,Android,computer,4,TRUE,40,12,TRUE,Male,Math,TRUE,1,Elon Musk
+campus,11,Mechanical Engineering,20,15,350,2,60000,40,73,10,30,Android,computer,5,TRUE,30,12,TRUE,Male,Math,TRUE,3,Elon Musk
+online,0,Computer Science,15,15,300,2,50000,30,68,16,30,iOS,computer,20,TRUE,10,12,TRUE,Male,Math,TRUE,4,Elon Musk
+online,0.9,Mechanical Engineering,20,16,700,2,80000,120,71,11,120,iOS,gaming console,1,TRUE,60,11,TRUE,Male,Math,TRUE,2,Neil deGrasse Tyson
+online,1.2,Civil or CEM,18,13,70,2,90000,180,72,53,32,iOS,gaming console,0,TRUE,20,11,TRUE,Male,Math,TRUE,2,Dalai Lama
+campus,0.1,Civil or CEM,14,14,500,1,20000,60,71,100,20,iOS,computer,2,TRUE,100,10,TRUE,Male,Math,TRUE,5,Elon Musk
+campus,1,Civil or CEM,23,17,400,2,70000,75,76,18,100,iOS,gaming console,0,TRUE,90,10,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,3,Civil or CEM,15,15,100,3,50000,30,73,10,15,iOS,gaming console,20,TRUE,70,10,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,0.5,Computer Science,24,13,350,1,65000,30,69.5,15,10,Android,computer,20,TRUE,45,10,TRUE,Male,Math,TRUE,30,Neil deGrasse Tyson
+campus,0.1,Civil or CEM,25,15,300,4,65000,85,74,20,100,iOS,gaming console,3,TRUE,30,10,TRUE,Male,Math,TRUE,1,Elon Musk
+campus,0.5,Computer Science,10,13,35,7,80000,30,74,5,30,iOS,gaming console,2,TRUE,15,10,TRUE,Male,Math,TRUE,5,Elon Musk
+campus,0.2283,Computer Science,5.3333,10,250,1,85256.3568,6.0012,67.0001,4,2,Android,gaming console,0,TRUE,5,10,TRUE,Male,Math,TRUE,5,Elon Musk
+campus,85,Civil or CEM,10,15,0,3,70000,30,73,15,30,iOS,gaming console,12,TRUE,120,9,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,0.1,Mechanical Engineering,30,12,200,6,65000,10,70,5,5,Other,nothing. I don't play video games.,0,TRUE,120,9,TRUE,Male,Math,TRUE,5,Elon Musk
+campus,0.3,Civil or CEM,24,18,200,3,65000,45,70,18,37,iOS,nothing. I don't play video games.,0,TRUE,120,9,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,0.4,Civil or CEM,20,14,425,1,60000,30,70,5,40,iOS,computer,20,TRUE,60,9,TRUE,Male,Math,TRUE,0,Elon Musk
+online,2.2,Mechanical Engineering,15,12,300,4,60000,90,73,3,50,iOS,gaming console,4,TRUE,60,9,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,1.5,Computer Science,5,16,200,2,90000,60,68,1,20,iOS,computer,2,TRUE,60,9,TRUE,Male,Math,TRUE,1,Neil deGrasse Tyson
+campus,0.5,Computer Science,25,14,50,3,60000,20,68,12,20,Android,gaming console,20,TRUE,50,9,TRUE,Male,Math,TRUE,3,Ruth Bader Ginsburg
+campus,0,Computer Science,25,14,150,1,80000,30,67,10,20,Other,computer,25,TRUE,20,9,TRUE,Male,Math,TRUE,5,Lebron James
+online,1,Mechanical Engineering,18,15,200,5,65000,45,70,7,150,iOS,computer,40,TRUE,0,9,TRUE,Male,Math,TRUE,2,Neil deGrasse Tyson
+campus,0.6,Civil or CEM,28,12,400,3,60000,50,77,12,15,Android,computer,20,TRUE,60,8,TRUE,Male,Math,TRUE,6,Neil deGrasse Tyson
+online,2,Mechanical Engineering,12,12,600,3,60000,90,70,5,20,Android,computer,6,TRUE,30,8,TRUE,Male,Math,TRUE,2,Neil deGrasse Tyson
+campus,1,Computer Science,30,17,300,6,60000,20,72,8,100,iOS,gaming console,1,TRUE,30,8,TRUE,Male,Math,TRUE,4,Elon Musk
+campus,13.2,Computer Science,25,14,800,2,65000,70,69,10,18,Android,nothing. I don't play video games.,0,TRUE,25,8,TRUE,Male,Math,TRUE,0,Lebron James
+campus,29.5,Computer Science,38,14,100,3,60000,30,66,10,0,Android,computer,1,TRUE,13,8,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,0.5,Civil or CEM,10,13,4000,4,55000,45,71,7,60,iOS,gaming console,2,TRUE,10,8,TRUE,Male,Math,TRUE,0,Elon Musk
+online,31.4,Computer Science,60,15,400,2,80000,120,67,10,100,iOS,gaming console,2,TRUE,180,7,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,0.4,Mechanical Engineering,15,18,100,2,60000,60,70.75,10,100,iOS,gaming console,15,TRUE,100,7,TRUE,Male,Math,TRUE,0,Neil deGrasse Tyson
+online,1.7,Mechanical Engineering,25,16,235,3,45000,80,73,5,20,Android,gaming console,6,TRUE,60,7,TRUE,Male,Math,TRUE,11,Elon Musk
+online,0.2,Mechanical Engineering,30,16,400,3,65000,20,72,7,12,iOS,gaming console,5,TRUE,60,7,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,41.8,Computer Science,3,13,250,4,60000,60,70,10,5,Android,gaming console,0,TRUE,60,7,TRUE,Male,Math,TRUE,0,Neil deGrasse Tyson
+campus,0.9,Civil or CEM,9,15,300,1,55000,60,70.5,23,22,Android,gaming console,7,TRUE,30,7,TRUE,Male,Math,TRUE,1,Elon Musk
+online,0,Civil or CEM,25,15,200,2,63000,180,79,11,5,Android,gaming console,4,TRUE,30,7,TRUE,Male,Math,TRUE,1,Lebron James
+campus,0.2,Mechanical Engineering,30,13,250,5,60000,30,71,21,30,iOS,nothing. I don't play video games.,0,TRUE,30,7,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,0.3,Computer Science,8,12,20,3,70000,60,71,8,1,Android,computer,15,TRUE,20,7,TRUE,Male,Math,TRUE,0,Elon Musk
+online,55.3,Computer Science,40,14,150,5,70000,40,72,6,6,Android,gaming console,4,TRUE,15,7,TRUE,Male,Math,TRUE,6,Elon Musk
+campus,39,Computer Science,15,15,4800,3,57000,30,70,20,10,Android,computer,20,TRUE,10,7,TRUE,Male,Math,TRUE,2,Neil deGrasse Tyson
+campus,0.4,Mechanical Engineering,8,12,400,2,30000,12,69.5,6,2,iOS,gaming console,0,TRUE,10,7,TRUE,Male,Math,TRUE,2,Neil deGrasse Tyson
+campus,0.6,Computer Science,22,16,200,1,70000,30,70,17,25,Android,computer,10,TRUE,5,7,TRUE,Male,Math,TRUE,2,Elon Musk
+online,0.5,Civil or CEM,5,16,500,5,50000,180,71,4,20,iOS,gaming console,5,TRUE,60,6,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,0.1,Civil or CEM,15,12,90,3,60000,0,76,5,20,iOS,gaming console,6,TRUE,45,6,TRUE,Male,Math,TRUE,0,Lebron James
+campus,0.6,Civil or CEM,7,16,250,2,85000,60,72,14,74,iOS,gaming console,1,TRUE,40,6,TRUE,Male,Math,TRUE,3,Elon Musk
+online,6,Mechanical Engineering,12,18,400,6,60000,45,71,2,1,iOS,gaming console,3,TRUE,30,6,TRUE,Male,Math,TRUE,5,Neil deGrasse Tyson
+campus,1.8,Computer Science,14,15,79,15,105000,120,75,2,4,iOS,computer,0,TRUE,30,6,TRUE,Male,Math,TRUE,7,Elon Musk
+campus,1,Computer Science,20,15,300,5,60000,60,76,12,0,iOS,computer,20,TRUE,5,6,TRUE,Male,Math,TRUE,2,Dalai Lama
+online,1,Mechanical Engineering,30,18,300,5,60000,120,78,15,25,iOS,gaming console,2,TRUE,2,6,TRUE,Male,Math,TRUE,5,Dalai Lama
+campus,1.7,Mechanical Engineering,35,13,500,3,65000,180,70,9,2,iOS,gaming console,7,TRUE,1,6,TRUE,Male,Math,TRUE,1,Elon Musk
+campus,12,Civil or CEM,20,14,400,8,50000,60,72,12,4,iOS,nothing. I don't play video games.,0,FALSE,0,6,TRUE,Male,Math,TRUE,4,Elon Musk
+campus,0.5,Mechanical Engineering,16,18,500,1,57000,60,70,7,50,iOS,gaming console,5,TRUE,120,5,TRUE,Male,Math,TRUE,12,Elon Musk
+campus,0.5,Civil or CEM,25,15,2000,1,80000,120,68,15,500,iOS,gaming console,5,TRUE,100,5,TRUE,Male,Math,TRUE,5,Lebron James
+online,51.7,Mechanical Engineering,7,15,700,9,80000,360,71,4,7,Android,gaming console,4,TRUE,90,5,TRUE,Male,Math,TRUE,9,Elon Musk
+campus,1,Civil or CEM,4,15,200,5,50000,30,66,10,25,Android,gaming console,2,TRUE,90,5,TRUE,Male,Math,TRUE,1,Elon Musk
+campus,0.1,Industrial Engineering,40,17,450,1,60000,90,73,11,29,Android,gaming console,0,TRUE,90,5,TRUE,Male,Math,TRUE,10,Dalai Lama
+online,0.5,Civil or CEM,12,15,800,3,60000,60,77,10,20,iOS,gaming console,4,TRUE,60,5,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,80,Mechanical Engineering,30,18,500,3,60000,60,73,14,30,Android,computer,2,TRUE,60,5,TRUE,Male,Math,TRUE,3,Elon Musk
+campus,348,Civil or CEM,30,17,300,2,55000,60,78,5,30,iOS,gaming console,8,TRUE,30,5,TRUE,Male,Math,TRUE,2,Elon Musk
+online,1,Civil or CEM,3,13,500,6,70000,48,70,30,20,iOS,gaming console,5,TRUE,10,5,TRUE,Male,Math,TRUE,4,Neil deGrasse Tyson
+online,2,Computer Science,20,11,300,5,60000,40,72,5,150,Android,gaming console,35,TRUE,5,5,TRUE,Male,Math,TRUE,0,Neil deGrasse Tyson
+campus,2.5,Mechanical Engineering,40,9,200,4,60000,240,72,11,100,iOS,computer,10,FALSE,0,5,TRUE,Male,Math,TRUE,1,Neil deGrasse Tyson
+campus,0.01,Mechanical Engineering,23,12,130,7,55000,0,74,10,65,iOS,nothing. I don't play video games.,0,FALSE,0,5,TRUE,Male,Math,TRUE,1,Neil deGrasse Tyson
+campus,0,Computer Science,22,18,90,3,60000,40,71,10,10,iOS,nothing. I don't play video games.,0,FALSE,0,5,TRUE,Male,Math,TRUE,8,Elon Musk
+online,2,Civil or CEM,10,18,20,4,50000,60,71,10,300,iOS,phone,20,TRUE,120,4,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,0.5,Civil or CEM,16,14,200,4,50000,45,68,14,40,iOS,gaming console,2,TRUE,100,4,TRUE,Male,Math,TRUE,2,Elon Musk
+campus,0.5,Mechanical Engineering,6,13,500,5,65000,180,68,15,20,iOS,gaming console,8,TRUE,80,4,TRUE,Male,Math,TRUE,0,Dalai Lama
+campus,146,Civil or CEM,6,15,350,4,70000,90,71,3,100,iOS,gaming console,8,TRUE,60,4,TRUE,Male,Math,TRUE,1,Elon Musk
+campus,0.25,Mechanical Engineering,30,13,4000,7,70000,15,70,6,71,Android,gaming console,2,TRUE,60,4,TRUE,Male,Math,TRUE,0,Lebron James
+campus,0.5,Mechanical Engineering,20,14,600,4,60000,90,72,9,20,iOS,nothing. I don't play video games.,0,TRUE,60,4,TRUE,Male,Math,TRUE,2,Elon Musk
+online,1,Civil or CEM,6,14,1500,4,65000,50,70,14,200,iOS,gaming console,8,TRUE,15,4,TRUE,Male,Math,TRUE,0,Dalai Lama
+campus,0.5,Civil or CEM,15,12,800,4,120000,90,74,3,20,iOS,gaming console,1,TRUE,3,4,TRUE,Male,Math,TRUE,0,Lebron James
+campus,1,Civil or CEM,8,14,1000,3,90000,120,75,5,5,iOS,nothing. I don't play video games.,0,TRUE,0,4,TRUE,Male,Math,TRUE,5,Elon Musk
+campus,1.4,Civil or CEM,18,14,80,0,60000,60,65,5,77,iOS,gaming console,5,TRUE,180,3,TRUE,Male,Math,TRUE,0,Lebron James
+campus,1,Civil or CEM,25,14,400,3,50000,180,64,4,50,iOS,nothing. I don't play video games.,0,TRUE,120,3,TRUE,Male,Math,TRUE,0,Lebron James
+campus,1,Computer Science,10,14,300,2,50000,120,75,13,50,iOS,gaming console,0,TRUE,100,3,TRUE,Male,Math,TRUE,1,Lebron James
+campus,21,Mechanical Engineering,15,12,65,4,85000,60,71,15,5,Android,gaming console,0,TRUE,60,3,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,1.1,Computer Science,12,18,400,0,40000,40,68,3,24,iOS,computer,10,TRUE,50,3,TRUE,Male,Math,TRUE,2,Elon Musk
+online,1,Mechanical Engineering,9,16,0,8,55000,60,70,10,25,iOS,nothing. I don't play video games.,0,TRUE,30,3,TRUE,Male,Math,TRUE,5,Elon Musk
+campus,3,Other,13,15,250,2,65000,50,73,16,29,Android,computer,10,TRUE,15,3,TRUE,Male,Math,TRUE,0,Elon Musk
+campus,0.2,Computer Science,10,15,1200,4,50000,40,71.5,10,0,iOS,computer,8,TRUE,2,3,TRUE,Male,Math,TRUE,0,Neil deGrasse Tyson
+campus,1,Mechanical Engineering,16,14,60.45,4,88000,60,72,13,2,Android,computer,0,FALSE,0,3,TRUE,Male,Math,TRUE,3,Elon Musk
+campus,1,Chemical Engineering,30,17,400,2,25000,60,70,14,15,iOS,nothing. I don't play video games.,0,TRUE,60,25,FALSE,Male,Math,TRUE,6,Lebron James
+campus,1,Chemical Engineering,5,15,20,0,30000,200,83,6,2,iOS,gaming console,40,TRUE,20,20,FALSE,Male,Math,TRUE,1,Lebron James
+campus,12.3,Mechanical Engineering,6,7,400,6,50000,60,72,36,4,Android,computer,0,TRUE,0,12,FALSE,Male,Math,TRUE,10,Dalai Lama
+online,3,Computer Science,20,14,500,1,40000,60,72,15,10,iOS,nothing. I don't play video games.,0,FALSE,0,10,FALSE,Male,Math,TRUE,2,Elon Musk
+campus,93.1,Mechanical Engineering,30,16,500,2,60000,200,74,8,100,iOS,computer,1,TRUE,40,9,FALSE,Male,Math,TRUE,5,Elon Musk
+campus,1.1,Mechanical Engineering,10,13,10000,1,20000,30,68,10,0,iOS,computer,0,TRUE,30,9,FALSE,Male,Math,TRUE,0,Lebron James
+campus,2.3,Industrial Engineering,35,16,700,0,50000,30,69,9,7,iOS,computer,20,TRUE,15,8,FALSE,Male,Math,TRUE,2,Lebron James
+online,701,Computer Science,18,15,184,0,50000,30,69,12,0,iOS,computer,8,TRUE,45,7,FALSE,Male,Math,TRUE,40,Elon Musk
+campus,1.4,Computer Science,10,12,270,7,80000,30,66,15,20,iOS,gaming console,0,TRUE,40,7,FALSE,Male,Math,TRUE,2,Elon Musk
+campus,0.4,Computer Science,20,15,130,1,100000,20,75,5,15,Android,computer,5,TRUE,5,7,FALSE,Male,Math,TRUE,0,Dalai Lama
+campus,1,Civil or CEM,10,14,100,0,80000,60,68,4,50,iOS,computer,30,TRUE,120,6,FALSE,Male,Math,TRUE,6,Lebron James
+campus,3600,Industrial Engineering,5,15,200,0,30000,60,68,22,3,iOS,gaming console,1,TRUE,60,6,FALSE,Male,Math,TRUE,10,Lebron James
+campus,2,Mechanical Engineering,12,12,100,0,40000,60,72,7,2,Android,computer,0,TRUE,20,6,FALSE,Male,Math,TRUE,6,Lebron James
+campus,307,Mechanical Engineering,12,13,400,0,65000,180,71,30,300,iOS,gaming console,3,TRUE,180,5,FALSE,Male,Math,TRUE,4,Lebron James
+campus,12.4,Mechanical Engineering,28,15,400,1,60000,30,74,19,33,iOS,gaming console,10,TRUE,60,5,FALSE,Male,Math,TRUE,0,Neil deGrasse Tyson
+campus,2,Industrial Engineering,35,13,200,0,50000,60,68.5,10,3,iOS,computer,5,TRUE,60,5,FALSE,Male,Math,TRUE,1,Lebron James
+campus,1,Mechanical Engineering,20,14,9300,1,10000,180,70,17,50,iOS,nothing. I don't play video games.,0,TRUE,60,5,FALSE,Male,Math,TRUE,6,Lebron James
+campus,10,Computer Science,35,14,300,1,40000,30,70,10,2,iOS,computer,12,TRUE,40,5,FALSE,Male,Math,TRUE,3,Dalai Lama
+campus,1.5,Mechanical Engineering,35,17,10300,1,65000,30,69,10,0,iOS,computer,10,TRUE,30,5,FALSE,Male,Math,TRUE,3,Dalai Lama
+campus,4,Mechanical Engineering,30,14,10000,0,100000,120,82,8,100,iOS,computer,15,TRUE,360,4,FALSE,Male,Math,TRUE,3,Lebron James
+campus,0.6,Civil or CEM,20,14,11500,0,50000,60,66,4,2,iOS,computer,35,TRUE,120,4,FALSE,Male,Math,TRUE,20,Elon Musk
+campus,1,Industrial Engineering,20,16,300,1,120000,60,70,7,0,iOS,phone,0,TRUE,120,4,FALSE,Male,Math,TRUE,5,Lebron James
+online,4,Other,25,17,200,2,60000,16,62,20,10,iOS,gaming console,0,TRUE,45,4,FALSE,Male,Math,TRUE,4,Lebron James
+campus,0.6,Mechanical Engineering,18,13,250,0,65000,120,72,10,10,iOS,nothing. I don't play video games.,0,TRUE,30,4,FALSE,Male,Math,TRUE,4,Elon Musk
+campus,832,Computer Science,20,15,12000,0,60000,60,70,15,50,iOS,computer,8,TRUE,30,3,FALSE,Male,Math,TRUE,2,Lebron James
+campus,0.5,Mechanical Engineering,20,13,600,1,35000,180,68,4,50,iOS,computer,2,TRUE,30,3,FALSE,Male,Math,TRUE,5,Lebron James
+campus,2,Civil or CEM,40,14,300,2,80000,60,80,7,4,iOS,computer,4,TRUE,4,3,FALSE,Male,Math,TRUE,5,Ruth Bader Ginsburg
+campus,0.5,Computer Science,24,16,300,2,76000,15,66.1417,15,5,iOS,computer,20,TRUE,60,2,FALSE,Male,Math,TRUE,8,Lebron James
+campus,3,Mechanical Engineering,35,16,300,3,55000,0,64,11,52,iOS,phone,0,TRUE,60,45,TRUE,Female,Math,TRUE,2,Elon Musk
+online,0.1,Computer Science,10.5,12,5,2,71500,173.571,62,6,17,iOS,nothing. I don't play video games.,0,TRUE,30,20,TRUE,Female,Math,TRUE,11,Elon Musk
+campus,1,Mechanical Engineering,20,17,300,6,60000,20,63,21,22,iOS,nothing. I don't play video games.,0,TRUE,120,18,TRUE,Female,Math,TRUE,5,Ruth Bader Ginsburg
+campus,0.3,Computer Science,25,15,300,2,50000,120,63,8,300,iOS,nothing. I don't play video games.,1,TRUE,100,17,TRUE,Female,Math,TRUE,2,Dalai Lama
+campus,1.1,Civil or CEM,10,15,200,2,59000,30,63,10,100,iOS,phone,0,TRUE,30,12,TRUE,Female,Math,TRUE,2,Ruth Bader Ginsburg
+campus,2.3,Mechanical Engineering,32,15,80,2,65140,0,62,19,0,iOS,nothing. I don't play video games.,0,TRUE,60,11,TRUE,Female,Math,TRUE,1,Elon Musk
+online,1.2,Other,50,17,300,3,75000,40,64,5,23,Android,gaming console,0,TRUE,60,11,TRUE,Female,Math,TRUE,6,Dalai Lama
+online,0.1,Civil or CEM,10,13,10,6,50000,60,68,1,50,iOS,gaming console,5,TRUE,60,10,TRUE,Female,Math,TRUE,3,Lebron James
+campus,300,Civil or CEM,32,16,300,4,60000,45,68,15,275,iOS,nothing. I don't play video games.,0,TRUE,60,10,TRUE,Female,Math,TRUE,4,Ruth Bader Ginsburg
+campus,5,Computer Science,15,10,100,5,60000,30,66,6,8,Android,computer,0,TRUE,30,10,TRUE,Female,Math,TRUE,2,Neil deGrasse Tyson
+campus,85,Civil or CEM,28,18,200,1,60000,120,63,15,5,iOS,nothing. I don't play video games.,0,TRUE,15,10,TRUE,Female,Math,TRUE,2,Elon Musk
+campus,0,Computer Science,6,15,400,1,50000,30,63,17,30,iOS,nothing. I don't play video games.,0,TRUE,3,10,TRUE,Female,Math,TRUE,0,Ruth Bader Ginsburg
+online,3.5,Civil or CEM,15,12,350,1,35000,120,70,10,130,iOS,phone,1,TRUE,60,9,TRUE,Female,Math,TRUE,125,Ruth Bader Ginsburg
+campus,0.5,Computer Science,12,14,80,2,60000,250,66,30,137,Android,computer,10,TRUE,150,8,TRUE,Female,Math,TRUE,5,Elon Musk
+campus,75,Mechanical Engineering,65,17,250,2,50000,120,65,15,25,iOS,phone,12,TRUE,30,8,TRUE,Female,Math,TRUE,26,Dalai Lama
+campus,2,Computer Science,8,13,3000,3,80000,20,64,10,30,iOS,nothing. I don't play video games.,0,TRUE,2,8,TRUE,Female,Math,TRUE,2,Neil deGrasse Tyson
+campus,0,Computer Science,30,17,100,3,50000,60,69,25,50,iOS,phone,0,TRUE,180,7,TRUE,Female,Math,TRUE,0,Lebron James
+campus,1.3,Industrial Engineering,30,17,400,2,83470,60,70,5,71,iOS,nothing. I don't play video games.,2,TRUE,60,7,TRUE,Female,Math,TRUE,6,Ruth Bader Ginsburg
+online,0.5,Computer Science,2,3,90,6,60000,20,69,5,16,Android,computer,10,TRUE,5,7,TRUE,Female,Math,TRUE,20,Ruth Bader Ginsburg
+online,531,Other,25,17,150,0,60000,30,64,5,8,Android,computer,5,TRUE,300,5,TRUE,Female,Math,TRUE,2,Elon Musk
+campus,4.7,Mechanical Engineering,37,16,40,2,60000,60,68,6,15,iOS,nothing. I don't play video games.,0,TRUE,100,5,TRUE,Female,Math,TRUE,0,Elon Musk
+online,1.1,Mechanical Engineering,28,17,200,1,65000,100,62,12,127,Android,computer,3,TRUE,20,5,TRUE,Female,Math,TRUE,5,Elon Musk
+campus,0.6,Computer Science,40,10,150,6,60000,120,65,22,5,Android,computer,0,TRUE,30,4,TRUE,Female,Math,TRUE,5,Dalai Lama
+campus,0.4,Civil or CEM,2,13,60,0,38000,30,60,13,4,iOS,phone,0,TRUE,300,7,FALSE,Female,Math,TRUE,5,Dalai Lama
+campus,1,Civil or CEM,24,14,213,0,36000,120,62.99,15,2,iOS,nothing. I don't play video games.,0,TRUE,180,7,FALSE,Female,Math,TRUE,7,Lebron James
+campus,6,Industrial Engineering,20,16,500,2,50000,180,60,5,70,iOS,nothing. I don't play video games.,0,TRUE,5,3,FALSE,Female,Math,TRUE,15,Lebron James
+campus,0.5,Computer Science,20,16,150,0,10000,350,66,3,10,iOS,phone,0,TRUE,0,2,FALSE,Female,Math,TRUE,0,Dalai Lama
+campus,980,Industrial Engineering,30,19,300,0,2000,30,64,10,10,iOS,nothing. I don't play video games.,1,TRUE,60,0,FALSE,Female,Math,TRUE,10,Neil deGrasse Tyson
+online,1,Computer Science,20,12,5,4,80000,15,67,13,4,Android,computer,20,TRUE,30,20,TRUE,Male,Writing,FALSE,2,Dalai Lama
+campus,0.8,Other,20,12,300,5,136000,120,74,18,123,Android,gaming console,3,TRUE,180,18,TRUE,Male,Writing,FALSE,0,Dalai Lama
+campus,2,Computer Science,18,13,200,3,80000,50,69,6,35,iOS,computer,8,TRUE,2,13,TRUE,Male,Writing,FALSE,0,Elon Musk
+online,1,Computer Science,5,13,100,3,80000,50,69,6,85,iOS,gaming console,6,FALSE,0,13,TRUE,Male,Writing,FALSE,0,Elon Musk
+campus,0.6,Industrial Engineering,8,17,0,2,50000,50,70,5,750,iOS,phone,0,TRUE,60,25,FALSE,Male,Writing,FALSE,10,Elon Musk
+online,15,Computer Science,50,15,150,2,90000,60,72,15,3,Android,computer,5,TRUE,30,5,FALSE,Male,Writing,FALSE,5,Elon Musk
+online,3,Civil or CEM,16,13,450,4,60000,130,76,24,200,iOS,gaming console,4,TRUE,200,40,TRUE,Male,Math,FALSE,2,Neil deGrasse Tyson
+campus,1,Computer Science,16,9,200,2,85000,0,71,6,3,iOS,computer,6,TRUE,30,35,TRUE,Male,Math,FALSE,1,Elon Musk
+campus,0.9,Computer Science,5,14,50,4,75000,50,70,8,50,Android,computer,1,TRUE,90,31,TRUE,Male,Math,FALSE,2,Elon Musk
+campus,1,Civil or CEM,25,15,600,3,60000,80,74,7,20,iOS,computer,10,TRUE,45,29,TRUE,Male,Math,FALSE,3,Elon Musk
+campus,1,Mechanical Engineering,23,15,200,0,70000,35,66,6,8,iOS,gaming console,0,TRUE,180,23,TRUE,Male,Math,FALSE,0,Elon Musk
+campus,1360,Civil or CEM,30,16,350,1,50000,120,72,4,20,iOS,computer,2,TRUE,60,20,TRUE,Male,Math,FALSE,10,Dalai Lama
+campus,0.4,Civil or CEM,20,12,300,2,50000,50,71,8,20,Android,computer,1,TRUE,60,20,TRUE,Male,Math,FALSE,1,Neil deGrasse Tyson
+campus,2.1,Mechanical Engineering,14,13,300,2,65000,30,70,4,30,Android,gaming console,2,TRUE,30,20,TRUE,Male,Math,FALSE,0,Elon Musk
+online,1,Civil or CEM,25,15,350,2,60000,30,70,12,45,Android,gaming console,8,TRUE,15,20,TRUE,Male,Math,FALSE,0,Lebron James
+campus,12,Computer Science,13,15,600,2,50000,130,70,50,0,Android,computer,0,TRUE,15,20,TRUE,Male,Math,FALSE,10,Dalai Lama
+online,126,Mechanical Engineering,20,12,500,8,120000,60,72.5,4,2,iOS,computer,0,TRUE,1,20,TRUE,Male,Math,FALSE,5,Elon Musk
+campus,3.5,Computer Science,32,16,450,5,50000,0,74,5,15,Android,phone,0,TRUE,60,18,TRUE,Male,Math,FALSE,1,Elon Musk
+campus,1,Computer Science,40,14,90,5,60000,40,68,29,250,iOS,phone,1,TRUE,60,15,TRUE,Male,Math,FALSE,2,Elon Musk
+online,1.9,Computer Science,40,10,20,2,60000,90,67,3,40,Android,nothing. I don't play video games.,0,TRUE,60,15,TRUE,Male,Math,FALSE,2,Elon Musk
+campus,0.2,Mechanical Engineering,15,16,200,3,60000,20,67,10,32,Android,computer,2,TRUE,10,15,TRUE,Male,Math,FALSE,4,Dalai Lama
+online,1,Mechanical Engineering,15,17,200,5,73000,45,71,20,50,Android,computer,15,TRUE,0,15,TRUE,Male,Math,FALSE,0,Elon Musk
+online,0.25,Civil or CEM,25,16,500,4,60000,20,70.5,10,36,Android,nothing. I don't play video games.,0,TRUE,90,12,TRUE,Male,Math,FALSE,2,Elon Musk
+online,50,Civil or CEM,10,15,500,6,58000,60,70,3,25,iOS,nothing. I don't play video games.,0,TRUE,60,10,TRUE,Male,Math,FALSE,5,Elon Musk
+campus,0.5,Mechanical Engineering,4.5,12,250,1,60000,30,67,10,23,iOS,computer,7,TRUE,30,10,TRUE,Male,Math,FALSE,20,Neil deGrasse Tyson
+online,0.3,Mechanical Engineering,14,14,200,2,45000,90,71,15,50,Android,nothing. I don't play video games.,0,TRUE,1,10,TRUE,Male,Math,FALSE,1,Neil deGrasse Tyson
+campus,24.4,Computer Science,8,12,300,8,36000,90,68,6,16,iOS,computer,6,TRUE,60,9,TRUE,Male,Math,FALSE,6,Elon Musk
+campus,1,Mechanical Engineering,20,14,200,2,60000,10,68,1,20,iOS,computer,20,FALSE,0,8,TRUE,Male,Math,FALSE,24,Elon Musk
+campus,0.8,Mechanical Engineering,25,19,300,1,80000,60,73,8,120,iOS,gaming console,1,TRUE,15,7,TRUE,Male,Math,FALSE,0,Elon Musk
+campus,0.4,Mechanical Engineering,30,13,178,1,53000,30,68,9,2,Android,computer,0,TRUE,15,7,TRUE,Male,Math,FALSE,1,Neil deGrasse Tyson
+online,85,Computer Science,4,7,90,4,70000,60,71,7,35,Android,computer,0,TRUE,5,7,TRUE,Male,Math,FALSE,0,Elon Musk
+online,2.2,Computer Science,28,14,200,2,60000,60,70,63,4,iOS,computer,0,TRUE,120,6,TRUE,Male,Math,FALSE,1,Ruth Bader Ginsburg
+campus,0.5,Mechanical Engineering,35,17,350,3,40000,35,74,12,2,Android,computer,30,TRUE,30,6,TRUE,Male,Math,FALSE,2,Elon Musk
+campus,5,Mechanical Engineering,25,15,500,6,50000,60,71,15,0,Android,computer,3,TRUE,10,4,TRUE,Male,Math,FALSE,15,Dalai Lama
+online,0.2,Civil or CEM,8,16,50,2,60000,120,68,12,50,iOS,phone,0.5,TRUE,2,3,TRUE,Male,Math,FALSE,1,Lebron James
+campus,2.6,Computer Science,12,10,3300,0,60000,30,69,6,2,iOS,computer,7,TRUE,5,12,FALSE,Male,Math,FALSE,5,Elon Musk
+campus,0.9,Mechanical Engineering,20,15,240,0,40000,60,68,6,0,iOS,gaming console,0,TRUE,5,11,FALSE,Male,Math,FALSE,1,Neil deGrasse Tyson
+online,1.1,Computer Science,30,15,300,1,80000,360,72,4,40,iOS,nothing. I don't play video games.,0,TRUE,20,10,FALSE,Male,Math,FALSE,1,Elon Musk
+campus,1.5,Mechanical Engineering,30,14,400,0,120000,180,70,13,50,iOS,computer,0,TRUE,30,7,FALSE,Male,Math,FALSE,3,Elon Musk
+campus,2,Computer Science,30,13,200,1,100000,90,65,20,1,Android,computer,2,TRUE,60,6,FALSE,Male,Math,FALSE,1,Elon Musk
+campus,1,Mechanical Engineering,5,13,50,0,98630,120,68,13,5,iOS,phone,1,TRUE,120,5,FALSE,Male,Math,FALSE,2,Lebron James
+online,1.1,Computer Science,18,16,66,1,50000,150,68,12,60,Android,gaming console,16,TRUE,180,3,FALSE,Male,Math,FALSE,2,Elon Musk
+campus,1.1,Computer Science,24,14,200,2,60000,30,67,6,20,iOS,computer,14,TRUE,15,3,FALSE,Male,Math,FALSE,3,Elon Musk
+campus,1,Computer Science,8,14,150,1,50000,120,72,67.7,0,iOS,computer,42,TRUE,10,3,FALSE,Male,Math,FALSE,1,Lebron James
+campus,3,Computer Science,25,16,100,0,40000,30,69,2,0,iOS,computer,5,TRUE,0,3,FALSE,Male,Math,FALSE,2,Lebron James
+campus,1,Computer Science,20,15,200,3,60000,60,64,10,20,Android,computer,10,TRUE,60,15,TRUE,Female,Math,FALSE,2,Neil deGrasse Tyson
+campus,0.8,Computer Science,7,14,140,1,60000,30,64,20,10,iOS,phone,1,TRUE,45,12,TRUE,Female,Math,FALSE,1,Elon Musk
+campus,0.6,Computer Science,30,13,28,5,70000,15,66,64,24,iOS,phone,1,TRUE,180,11,TRUE,Female,Math,FALSE,1,Ruth Bader Ginsburg
+campus,907,Mechanical Engineering,30,17,100,1,55000,60,65,15,25,Android,nothing. I don't play video games.,0,TRUE,120,11,TRUE,Female,Math,FALSE,13,Ruth Bader Ginsburg
